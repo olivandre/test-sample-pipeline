@@ -8,6 +8,7 @@
     ]
   },
   "pipelines": [
+    {
      "additionalParameters": {
        "connectorGroup": ["totvsprotheus"],
        "myCustomKey": ["mycustomValue"],
